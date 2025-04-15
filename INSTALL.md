@@ -58,8 +58,8 @@
 2. Set up the project:
    ```bash
    # Clone the repository
-   git clone <repository-url>
-   cd Medical_Chatbot
+   git clone https://github.com/Harshit-Chaudhry/Medical_Chatbot_pb_v_1.git
+   cd Medical_Chatbot_pb_v_1
 
    # Create and activate virtual environment
    python3 -m venv .venv

@@ -60,8 +60,9 @@ A comprehensive healthcare assistant that provides:
 
 ```
 medical_chatbot/
-├── app.py                 # Main application file
-├── requirements.txt       # Python dependencies
+├── app.py                # Main application file
+├── setup.py              # Setting up the Tools like Pyaudio  
+├── requirements.txt      # Python dependencies
 ├── .env                  # Environment variables
 ├── src/                  # Source code
 │   ├── chatbot/          # Chatbot core

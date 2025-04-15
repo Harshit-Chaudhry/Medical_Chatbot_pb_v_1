@@ -25,7 +25,7 @@
    ```bash
    # Clone the repository
    git clone https://github.com/Harshit-Chaudhry/Medical_Chatbot_pb_v_1.git
-   cd Medical_Chatbot
+   cd Medical_Chatbot_pb_v_1
 
    # Create and activate virtual environment
    python -m venv .venv

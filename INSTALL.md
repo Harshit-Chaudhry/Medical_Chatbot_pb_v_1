@@ -24,7 +24,7 @@
 3. Set up the project:
    ```bash
    # Clone the repository
-   git clone <repository-url>
+   git clone https://github.com/Harshit-Chaudhry/Medical_Chatbot_pb_v_1.git
    cd Medical_Chatbot
 
    # Create and activate virtual environment

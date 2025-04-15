@@ -81,7 +81,7 @@ medical_chatbot/
 ### Chatbot Interaction
 Below is an example of the chatbot in action:
 
-![Chatbot Demo](readmeJunk\1_image.png)
+![Chatbot Demo](readmeJunk/1_image.png)
 
 **Example Interaction:**
 - **User:** Hey, I have a fever about 101 deg temp. Can you suggest me some medicine or home remedy about it?  
@@ -92,8 +92,8 @@ Below is an example of the chatbot in action:
 ### Medical Report Analysis
 The chatbot also supports lab report analysis:
 
-![Medical Report Analysis](readmeJunk\2_image.png)
-![Medical Report Analysis](readmeJunk\3_image.png)
+![Medical Report Analysis](readmeJunk/2_image.png)
+![Medical Report Analysis](readmeJunk/3_image.png)
 **Example Features:**
 - Upload lab reports (PDF/Image).
 - Extracts key findings like deficiencies and abnormal values.
@@ -104,7 +104,7 @@ The chatbot also supports lab report analysis:
 ### Appointment Booking
 The chatbot can suggest nearby clinics and hospitals based on your location:
 
-![Appointment Booking](readmeJunk\4_image.png)
+![Appointment Booking](readmeJunk/4_image.png)
 
 **Example Features:**
 - Location-based clinic suggestions.
